@@ -94,6 +94,7 @@ export class JogoDaVelhaService {
    iniciarJogo(): void {
      this._showInicio = false;
      this._showTabuleiro = true;
+     console.log("Clicado")
    }
    
    /**
